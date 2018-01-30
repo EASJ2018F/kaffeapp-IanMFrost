@@ -20,6 +20,10 @@ namespace kaffe.Tests
 
             //Act
             int pris = sortKaffe.Pris();
+
+            // Assert
+
+            Assert.AreEqual();
         }
 
         [TestMethod()]
